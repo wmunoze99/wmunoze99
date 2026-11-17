@@ -1,15 +1,15 @@
 # Hi, I'm Willinton Muñoz 👋
 
-**Full-stack software engineer in Medellín, Colombia.**
+**Full-stack software engineer building web applications and AI-powered solutions.**
 
-I build applications across the frontend and backend, with over five years of software engineering experience. My work spans web development, cloud tools, and projects that connect software with the physical world.
+I've been working in software engineering since 2017, developing backend systems and frontend experiences. My interests include integrating AI into practical workflows, from large language models and retrieval-augmented generation to transcription and image processing.
 
-## Technologies
+## What I work with
 
-- **Frontend:** TypeScript, JavaScript, React, Angular, Next.js, HTML, CSS
-- **Backend:** Node.js, NestJS, Python, C#, .NET, Go
-- **Data:** PostgreSQL, MySQL, MongoDB, Redis
-- **Infrastructure:** Docker, Kubernetes, AWS, Azure, Linux
+- **Backend:** Python, FastAPI, Node.js
+- **Frontend:** React, TypeScript, JavaScript
+- **AI:** LLM integrations, RAG, machine learning, image processing and transcription
+- **Infrastructure and data:** Docker, Kubernetes, AWS, PostgreSQL and MongoDB
 
 ## Explore my work
 
