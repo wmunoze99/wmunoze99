@@ -1,23 +1,23 @@
 # Hi, I'm Willinton Muñoz 👋
 
-**Full-stack software engineer building web applications and AI-powered solutions.**
+**Senior full-stack software engineer building reliable applications and practical AI solutions.**
 
-I've been working in software engineering since 2017, developing backend systems and frontend experiences. My interests include integrating AI into practical workflows, from large language models and retrieval-augmented generation to transcription and image processing.
+Since 2017, I've worked across backend systems, web interfaces, cloud infrastructure, and applied AI. I enjoy turning complex requirements into maintainable software and helping teams deliver meaningful results.
 
-## What I work with
+### What I work on
 
-- **Backend:** Python, FastAPI, Node.js
-- **Frontend:** React, TypeScript, JavaScript
-- **AI:** LLM integrations, RAG, machine learning, image processing and transcription
-- **Infrastructure and data:** Docker, Kubernetes, AWS, PostgreSQL and MongoDB
+- **AI engineering:** LLM integrations, RAG, LangChain, LlamaIndex, model serving, and intelligent workflows
+- **Full-stack applications:** Python, FastAPI, Node.js, TypeScript, React, and Next.js
+- **Platforms and data:** AWS, Kubernetes, Docker, PostgreSQL, Redis, and Elasticsearch
 
-## Explore my work
+Currently, I work on enterprise AI and full-stack systems with **Gorilla Logic / Primer AI**, including configurable LLM workflows, secure document access, and distributed applications. Previously, I built web and Web3 products at Meta-Carbon and led software delivery and infrastructure improvements at Areamovil.
 
-- [scrapper_ai_front](https://github.com/wmunoze99/scrapper_ai_front) and [scrapper_ai_backend](https://github.com/wmunoze99/scrapper_ai_backend)
-- [smartroom](https://github.com/wmunoze99/smartroom)
-- [SmartFan](https://github.com/wmunoze99/SmartFan)
-- [More repositories →](https://github.com/wmunoze99?tab=repositories)
+### Selected projects
 
-## Get in touch
+- **FLOR** — A client AI assistant for Alcaldía de Medellín, using LlamaIndex for retrieval and tool integration.
+- **HUMaker** — A client platform for meeting transcription, user-story generation, and contextual chat using FastAPI, Next.js, and LangChain.
+- **[Portfolio](https://wmunoze99.github.io/portfolio/)** — More about my experience and work. [View the source](https://github.com/wmunoze99/portfolio).
 
-[LinkedIn](https://linkedin.com/in/wmunoze) · [Email](mailto:wilintonmunoz09@gmail.com)
+### Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/wmunoze) · [Email](mailto:wilintonmunoz09@gmail.com) · [GitHub repositories](https://github.com/wmunoze99?tab=repositories)
